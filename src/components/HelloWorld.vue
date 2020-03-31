@@ -1,7 +1,8 @@
 <template>
   <div>
     {{msg}}
-    
+    {{list}}
+    {{list1}}
   </div>
 </template>
 
@@ -10,7 +11,9 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue.js App',
+      list:'change first',
+      list1:'change second'
     }
   }
 }
