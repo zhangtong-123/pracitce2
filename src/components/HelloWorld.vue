@@ -4,6 +4,7 @@
     {{list}}
     {{list1}}
     <div>123</div>
+    <div>123</div>
   </div>
 </template>
 

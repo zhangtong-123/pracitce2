@@ -1,0 +1,12 @@
+[1mdiff --git a/src/components/HelloWorld.vue b/src/components/HelloWorld.vue[m
+[1mindex 30022fa..42e5225 100644[m
+[1m--- a/src/components/HelloWorld.vue[m
+[1m+++ b/src/components/HelloWorld.vue[m
+[36m@@ -4,6 +4,7 @@[m
+     {{list}}[m
+     {{list1}}[m
+     <div>123</div>[m
+[32m+[m[32m    <div>123</div>[m
+   </div>[m
+ </template>[m
+ [m
