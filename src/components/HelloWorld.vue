@@ -8,6 +8,9 @@
     <div>890</div>
     {{msg}}
     <div>ssss</div>
+    <div>ssss</div>
+    <div>ssss</div>
+    <div>ssss</div>
   </div>
 </template>
 
